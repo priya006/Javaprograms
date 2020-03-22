@@ -1,7 +1,7 @@
 
 package learnings.interfaceconcepts.examples;
 
-public class ebayQuestion {
+public class reverseNumber1 {
 /*
     public static void main(String[] args) {
 
