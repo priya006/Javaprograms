@@ -3,7 +3,7 @@ package learnings.interfaceconcepts.examples;
 import java.util.ArrayList;
 import java.util.List;
 
- class GoogleQuestion {
+ class Question {
 
     private static List<Integer> myList = new ArrayList<>();
      static List<Integer> findAll(String main, String search) throws Exception {
