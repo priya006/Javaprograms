@@ -3,7 +3,7 @@ package learnings.interfaceconcepts.examples;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GoogleSolutiuonWithStringAPI {
+public class StringAPI {
 
 
     //Disadvantage of this solution is it can have only one index added
