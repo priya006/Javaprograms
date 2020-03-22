@@ -1,6 +1,6 @@
 package learnings.interfaceconcepts.examples;
 
-public class SearchStringAmazon {
+public class SearchString {
 
 
     static void printIndex(String mainString, String searchedString) {
