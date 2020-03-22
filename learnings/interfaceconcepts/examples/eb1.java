@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 
-public class Ebay
+public class eb1
 {
     static HashSet<Integer> hashSetA = new HashSet<>();
     static HashSet<Integer> hashSetB = new HashSet<>();
