@@ -2,7 +2,7 @@ package learnings.interfaceconcepts.examples;
 
 import java.util.*;
 
-public class AmazonInterview {
+public class Amz {
 
     public static void main(String[] args) {
 
