@@ -3,7 +3,7 @@ package learnings.interfaceconcepts.examples;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class ebayPTL {
+public class PTL {
 
    /* private static Integer[] result;
 
