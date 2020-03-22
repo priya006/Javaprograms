@@ -2,7 +2,7 @@ package learnings.interfaceconcepts.examples;
 
 
 
-public class CrakingCodingInterview {
+public class Crk {
 
 
     private static void ReplaceFun(char[] str, int length) {
