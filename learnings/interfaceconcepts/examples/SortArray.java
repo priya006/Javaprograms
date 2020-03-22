@@ -4,7 +4,6 @@ import java.util.List;
 
 public class SortArray {
 
-    //Question asked in google for QE in technical phone screen
 
   public static List<Integer> findAll(String str, String substr) throws Exception {
 
